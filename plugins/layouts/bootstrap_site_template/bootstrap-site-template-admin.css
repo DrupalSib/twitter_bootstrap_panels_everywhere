@@ -1,0 +1,33 @@
+#panel-region-sticky_bar_logo {
+  width: 30%;
+  float: left;
+}
+
+.nav-collapse {
+  width: 65%;
+  float: left;
+}
+
+.nav-collapse nav {
+  display: inline-block;
+  width: 100%;
+}
+
+#panel-region-sticky_bar_navigation_left {
+  width: 380px;
+  float: left;
+}
+
+#panel-region-sticky_bar_navigation_right {
+  width: 380px;
+  float: right;
+}
+
+#panel-region-header {
+  width: 100%;
+}
+
+#navbar .container {
+  display: inline-block;
+  width: 100%;
+}
