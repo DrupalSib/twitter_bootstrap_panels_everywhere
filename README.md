@@ -1,7 +1,7 @@
 twitter_bootstrap_panels_everywhere
 ===================================
 
-This I've modified theme to make it compatible with Panels/Panels everywhere modules.
+This is modified twitter_bootstrap theme but compatible with Panels/Panels everywhere modules.
 
 Features:
 - site template layout for basic Bootstrap layout
